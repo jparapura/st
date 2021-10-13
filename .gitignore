@@ -5,3 +5,5 @@ st.h.orig
 st.o
 x.c.orig
 x.o
+st.c.orig
+st.c.rej
